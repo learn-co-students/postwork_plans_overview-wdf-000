@@ -21,11 +21,11 @@ One feeling shared by many postwork students is that there can seem like so many
 
 How do you navigate this?  Help yourself out by giving yourself some **structure**.  Rather than "Tomorrow I will work on some stuff all day", *make a schedule and stick to it*. Here is what an example schedule might look like:
 
-TODO: Complete this example schedule
-
-|9:00 - 10:30 | | Solve Algorithm Questions
-|10:30 - 12:30| | Review old topics you find difficult.
-|1:30 - 3:30  | | Work on your assigned track material.
-|3:30 - 5:30  | | Career prep, network, apply to jobs.
-|5:30 - 6:00  | | Research, read and stay up to date on new technologies.
-|-------------|-|----------------|  
+TODO: Complete this example schedule   
+| Time | Activity |  
+| ---- | ----- |
+|9:00 - 10:30 | Solve Algorithm Questions  
+|10:30 - 12:30| Review old topics you find difficult.  
+|1:30 - 3:30  | Work on your assigned track material.  
+|3:30 - 5:30  | Career prep, network, apply to jobs.  
+|5:30 - 6:00  | Research, read and stay up to date on   new technologies. 
