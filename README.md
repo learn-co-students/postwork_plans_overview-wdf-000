@@ -25,7 +25,7 @@ How do you navigate this?  Help yourself out by giving yourself some **structure
 
 Based on your strengths/weaknesses and a meeting with your instructor you will be assigned one of the following post-work tracks:
 
-[Ruby Review](https://github.com/learn-co-curriculum/ruby-postwork-plan) : This track is for those students that need some ruby refresher. By the end of this track you should feel confident with Ruby and be able to build a basic Ruby on Rails project. 
+*[Ruby Review](https://github.com/learn-co-curriculum/ruby-postwork-plan)*: This track is for those students that need some ruby refresher. By the end of this track you should feel confident with Ruby and be able to build a basic Ruby on Rails project. 
 
 [JavaScript Review](https://github.com/learn-co-curriculum/javascript-postwork-plan) : By the end of this track, you should feel more confident in your JavaScript programming and the request response cycle. You'll be able to build a React/Redux/Rails CRUD application, explain REST and the Request/Response cycle, and generally solve some cool problems using JavaScript.
 
