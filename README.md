@@ -22,6 +22,7 @@ One feeling shared by many postwork students is that there can seem like so many
 How do you navigate this?  Help yourself out by giving yourself some **structure**.  Rather than "Tomorrow I will work on some stuff all day", *make a schedule and stick to it*. Here is what an example schedule might look like:
 
 TODO: Complete this example schedule   
+
 | Time | Activity |  
 | ---- | ----- |  
 |9:00 - 10:30 | Solve Algorithm Questions  
