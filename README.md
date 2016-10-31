@@ -41,7 +41,7 @@ Example Schedule:
 | Time | Activity |  
 | ------ | ----- |  
 |9:00 am - 9:30 am | Research, read and stay up to date on new technologies.
-|9:30 am - 10:00 am| Try to solve a question from Hacker Rank/Code Wars/or a problem from Cracking the Coding Interview 
+|9:30 am - 10:00 am| Try to solve a question from [Hacker Rank](https://www.hackerrank.com/)/[Code Wars](https://www.codewars.com/)/or a problem from [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=ZMET7AEWHKNBGERXSPQD) 
 |10:00 am - 12:00 pm | Work on material from your assigned track  
 |12:00 pm - 1:00 pm  | Lunch Break 
 |1:00 pm - 4:00 pm | Continue working on material from assigned track  
