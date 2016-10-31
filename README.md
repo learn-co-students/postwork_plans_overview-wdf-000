@@ -21,6 +21,15 @@ One feeling shared by many postwork students is that there can seem like so many
 
 How do you navigate this?  Help yourself out by giving yourself some **structure**.  Rather than "Tomorrow I will work on some stuff all day", *make a schedule and stick to it*. Here is what an example schedule might look like:
 
+| Time | Activity |  
+| ------ | ----- |  
+|9:00 am - 9:30 am | Respond to emails, research, read and stay up to date on new technologies.
+|9:30 am - 10:00 am| Try to solve a question from [Hacker Rank](https://www.hackerrank.com/)/[Code Wars](https://www.codewars.com/)/or a problem from [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=ZMET7AEWHKNBGERXSPQD) 
+|10:00 am - 12:00 pm | Work on material from your assigned track  
+|12:00 pm - 1:00 pm  | Lunch Break 
+|1:00 pm - 4:00 pm | Continue working on material from assigned track  
+|4:00 pm - 6:00 pm | Career Preperation (LinkedIn Scouting, Follow up e-mails, Applications, Schedule Meetups/Events) 
+
 #### Your Post Work Plan Starts With .... 
 
 Based on your strengths/weaknesses and a meeting with your instructor you will be assigned one of the following post-work tracks:
@@ -34,16 +43,3 @@ Based on your strengths/weaknesses and a meeting with your instructor you will b
 **[Rails](https://github.com/learn-co-curriculum/rails-postwork)**: A student who completes this material should be able to build a Rails application that stresses the importance of design patterns and test driven development.
 
 **[JavaScript/Node](https://github.com/learn-co-curriculum/javascript-node-postwork-plan)**: By the end of this track, students should walk away with a React/Node application. Students should feel confident as JavaScript programmers.
-
-
-Example Schedule: 
-
-| Time | Activity |  
-| ------ | ----- |  
-|9:00 am - 9:30 am | Respond to emails, research, read and stay up to date on new technologies.
-|9:30 am - 10:00 am| Try to solve a question from [Hacker Rank](https://www.hackerrank.com/)/[Code Wars](https://www.codewars.com/)/or a problem from [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=ZMET7AEWHKNBGERXSPQD) 
-|10:00 am - 12:00 pm | Work on material from your assigned track  
-|12:00 pm - 1:00 pm  | Lunch Break 
-|1:00 pm - 4:00 pm | Continue working on material from assigned track  
-|4:00 pm - 6:00 pm | Career Preperation (LinkedIn Scouting, Follow up e-mails, Applications, Schedule Meetups/Events) 
-
