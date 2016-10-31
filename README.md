@@ -39,7 +39,7 @@ Based on your strengths/weaknesses and a meeting with your instructor you will b
 Example Schedule: 
 
 | Time | Activity |  
-| ---- | ----- |  
+| ------ | ----- |  
 |9:00 am - 9:30 am | Research, read and stay up to date on new technologies.
 |9:30 am - 10:00 am| Try to solve a question from Hacker Rank/Code Wars/or a problem from Cracking the Coding Interview 
 |10:00 am - 12:00 pm | Work on material from your assigned track  
