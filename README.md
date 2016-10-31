@@ -40,8 +40,10 @@ Example Schedule:
 
 | Time | Activity |  
 | ---- | ----- |  
-|9:00 - 10:30 | Solve Algorithm Questions  
-|10:30 - 12:30| Review old topics you find difficult.  
-|1:30 - 3:30  | Work on your assigned track material.  
-|3:30 - 5:30  | Career prep, network, apply to jobs.  
-|5:30 - 6:00  | Research, read and stay up to date on new technologies.  
+|9:00 am - 9:30 am | Research, read and stay up to date on new technologies.
+|9:30 am - 10:00 am| Try to solve a question from Hacker Rank/Code Wars/or a problem from Cracking the Coding Interview 
+|10:00 am - 12:00 pm | Work on material from your assigned track  
+|12:00 pm - 1:00 pm  | Lunch Break 
+|1:00 pm - 4:00 pm | Continue working on material from assigned track  
+|4:00 pm - 6:00 pm | Career Preperation (LinkedIn Scouting, Follow up e-mails, Applications, Schedule Meetups/Events) 
+
