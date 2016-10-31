@@ -4,12 +4,12 @@ The period of time immediately after completing the coursework can be one full o
 
 There are a few main things we want to communicate to help you be successful in the postwork period and ultimately achieve your goal of landing that first job writing code.  The first is...     
 
-#### **Don't Stop Working**
+##### **Don't Stop Working**
 *all of the hard work you put in to the coursework should give you a pretty good model of what your postwork life should look like.*
 
 So you know that you need to put in the work. The question is what do you work on?  The next, but by no means second, most-important-thing is...      
 
-#### **Write Code Everyday**
+##### **Write Code Everyday**
 *this means your hands are on the keyboard writing code and running code every single day.  Reading a book on Algorithms for 6 hours a day or trying to get through Cracking the Coding Interview from cover to cover is not writing and running code.*
 
 One feeling shared by many postwork students is that there can seem like so many different things to work on that they almost don't know where to begin.  
@@ -19,7 +19,24 @@ One feeling shared by many postwork students is that there can seem like so many
 + Then there are so many new (or new to you) technologies, what are Node and MongoDB anyway? What if the the company you really want to work at uses AngularJS in their stack and you learned React?  
 + And on top of all of this there is all the other things you want to do to make yourself the best candidate.  Your linkedin may need another edit or you want to attend some meetups and continue networking, etc.
 
-How do you navigate this?  Help yourself out by giving yourself some **structure**.  Rather than "Tomorrow I will work on some stuff all day", *make a schedule and stick to it*. Here is what an example schedule might look like:  
+How do you navigate this?  Help yourself out by giving yourself some **structure**.  Rather than "Tomorrow I will work on some stuff all day", *make a schedule and stick to it*. Here is what an example schedule might look like:
+
+##### Your Post Work Plan Starts With .... 
+
+Based on your strengths/weaknesses and a meeting with your instructor you will be assigned one of the following post-work tracks:
+
+[Ruby Review](https://github.com/learn-co-curriculum/ruby-postwork-plan) : This track is for those students that need some ruby refresher. By the end of this track you should feel confident with Ruby and be able to build a basic Ruby on Rails project. 
+
+[JavaScript Review](https://github.com/learn-co-curriculum/javascript-postwork-plan) : By the end of this track, you should feel more confident in your JavaScript programming and the request response cycle. You'll be able to build a React/Redux/Rails CRUD application, explain REST and the Request/Response cycle, and generally solve some cool problems using JavaScript.
+
+[SQL/Data](https://github.com/learn-co-curriculum/data-postwork-plan) : This track is for those students who are interested in data. This track is not meant to be remediation for SQL but for those who want to take a deeper dive into SQL and the world of Data, the new gold.
+
+[Rails](https://github.com/learn-co-curriculum/rails-postwork) : A student who completes this material should be able to build a Rails application that stresses the importance of design patterns and test driven development.
+
+[JavaScript/Node](https://github.com/learn-co-curriculum/javascript-node-postwork-plan) : By the end of this track, students should walk away with a React/Node application. Students should feel confident as JavaScript programmers.
+
+
+Example Schedule: 
 
 | Time | Activity |  
 | ---- | ----- |  
