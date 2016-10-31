@@ -4,12 +4,12 @@ The period of time immediately after completing the coursework can be one full o
 
 There are a few main things we want to communicate to help you be successful in the postwork period and ultimately achieve your goal of landing that first job writing code.  The first is...     
 
-##### **Don't Stop Working**
+#### **Don't Stop Working**
 *all of the hard work you put in to the coursework should give you a pretty good model of what your postwork life should look like.*
 
 So you know that you need to put in the work. The question is what do you work on?  The next, but by no means second, most-important-thing is...      
 
-##### **Write Code Everyday**
+#### **Write Code Everyday**
 *this means your hands are on the keyboard writing code and running code every single day.  Reading a book on Algorithms for 6 hours a day or trying to get through Cracking the Coding Interview from cover to cover is not writing and running code.*
 
 One feeling shared by many postwork students is that there can seem like so many different things to work on that they almost don't know where to begin.  
@@ -21,7 +21,7 @@ One feeling shared by many postwork students is that there can seem like so many
 
 How do you navigate this?  Help yourself out by giving yourself some **structure**.  Rather than "Tomorrow I will work on some stuff all day", *make a schedule and stick to it*. Here is what an example schedule might look like:
 
-##### Your Post Work Plan Starts With .... 
+#### Your Post Work Plan Starts With .... 
 
 Based on your strengths/weaknesses and a meeting with your instructor you will be assigned one of the following post-work tracks:
 
