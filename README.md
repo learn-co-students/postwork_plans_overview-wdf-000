@@ -28,11 +28,11 @@ How do you navigate this?  Help yourself out by giving yourself some **structure
 |10:00 am - 12:00 pm | Work on material from your assigned track  
 |12:00 pm - 1:00 pm  | Lunch Break 
 |1:00 pm - 4:00 pm | Continue working on material from assigned track  
-|4:00 pm - 6:00 pm | Career Preperation (LinkedIn Scouting, Follow up e-mails, Applications, Schedule Meetups/Events) 
+|4:00 pm - 6:00 pm | Career Preparation (LinkedIn Scouting, Follow up e-mails, Applications, Schedule Meetups/Events) 
 
 #### Your Post Work Plan Starts With .... 
 
-Based on your strengths/weaknesses and a meeting with your instructor you will be assigned one of the following post-work tracks:
+Based on your areas of interest, strengths/weaknesses, and a meeting with your instructor you will be assigned one of the following post-work tracks:
 
 **[Ruby Review](https://github.com/learn-co-curriculum/ruby-postwork-plan)**: This track is for those students that need some more practice with basic Ruby & Ruby on Rails. By the end of this track you should feel confident with Ruby and be able to build a basic Ruby on Rails project. 
 
