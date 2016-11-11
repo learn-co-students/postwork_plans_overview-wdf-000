@@ -19,12 +19,27 @@ One feeling shared by many postwork students is that there can seem like so many
 + Then there are so many new (or new to you) technologies, what are Node and MongoDB anyway? What if the the company you really want to work at uses AngularJS in their stack and you learned React?  
 + And on top of all of this there is all the other things you want to do to make yourself the best candidate.  Your linkedin may need another edit or you want to attend some meetups and continue networking, etc.
 
-How do you navigate this?  Help yourself out by giving yourself some **structure**.  Rather than "Tomorrow I will work on some stuff all day", *make a schedule and stick to it*. Here is what an example schedule might look like:  
+How do you navigate this?  Help yourself out by giving yourself some **structure**.  Rather than "Tomorrow I will work on some stuff all day", *make a schedule and stick to it*. Here is what an example schedule might look like:
 
 | Time | Activity |  
-| ---- | ----- |  
-|9:00 - 10:30 | Solve Algorithm Questions  
-|10:30 - 12:30| Review old topics you find difficult.  
-|1:30 - 3:30  | Work on your assigned track material.  
-|3:30 - 5:30  | Career prep, network, apply to jobs.  
-|5:30 - 6:00  | Research, read and stay up to date on new technologies.  
+| ------ | ----- |  
+|9:00 am - 9:30 am | Respond to emails, research, read and stay up to date on new technologies.
+|9:30 am - 10:00 am| Try to solve a question from [Hacker Rank](https://www.hackerrank.com/)/[Code Wars](https://www.codewars.com/)/or a problem from [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=ZMET7AEWHKNBGERXSPQD) 
+|10:00 am - 12:00 pm | Work on material from your assigned track  
+|12:00 pm - 1:00 pm  | Lunch Break 
+|1:00 pm - 4:00 pm | Continue working on material from assigned track  
+|4:00 pm - 6:00 pm | Career Preparation (LinkedIn Scouting, Follow up e-mails, Applications, Schedule Meetups/Events) 
+
+#### Your Post Work Plan Starts With .... 
+
+Based on your areas of interest, strengths/weaknesses, and a meeting with your instructor you will be assigned one of the following post-work tracks:
+
+**[Ruby Review](https://github.com/learn-co-curriculum/ruby-postwork-plan)**: This track is for those students that need some more practice with basic Ruby & Ruby on Rails. By the end of this track you should feel confident with Ruby and be able to build a basic Ruby on Rails project. 
+
+**[JavaScript Review](https://github.com/learn-co-curriculum/javascript-postwork-plan)**: By the end of this track, you should feel more confident in your JavaScript programming and the request response cycle. You'll be able to build a React/Redux/Rails CRUD application, explain REST and the Request/Response cycle, and generally solve some cool problems using JavaScript.
+
+**[SQL/Data](https://github.com/learn-co-curriculum/data-postwork-plan)**: This track is for those students who are interested in data. This track is not meant to be remediation for SQL but for those who want to take a deeper dive into SQL and the world of Data, the new gold.
+
+**[Rails](https://github.com/learn-co-curriculum/rails-postwork)**: A student who completes this material should be able to build a Rails application that stresses the importance of design patterns and test driven development.
+
+**[JavaScript/Node](https://github.com/learn-co-curriculum/javascript-node-postwork-plan)**: By the end of this track, students should walk away with a React/Node application. Students should feel confident as JavaScript programmers.
