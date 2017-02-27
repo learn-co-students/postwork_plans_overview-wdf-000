@@ -32,7 +32,7 @@ How do you navigate this?  Help yourself out by giving yourself some **structure
 
 #### Your Post Work Plan Starts With .... 
 
-Based on your areas of interest, strengths/weaknesses, and a meeting with your instructor you will be assigned one of the following post-work tracks:
+Based on your areas of interest, strengths/weaknesses, select one of the following post-work tracks. Once you finish one, feel free to move on to a different track: 
 
 **[Ruby Review](https://github.com/learn-co-curriculum/ruby-postwork-plan)**: This track is for those students that need some more practice with basic Ruby & Ruby on Rails. By the end of this track you should feel confident with Ruby and be able to build a basic Ruby on Rails project. 
 
