@@ -34,12 +34,12 @@ How do you navigate this?  Help yourself out by giving yourself some **structure
 
 Based on your areas of interest, strengths/weaknesses, select one of the following post-work tracks. Once you finish one, feel free to move on to a different track: 
 
-**[Ruby Review](https://github.com/learn-co-curriculum/ruby-postwork-plan)**: This track is for those students that need some more practice with basic Ruby & Ruby on Rails. By the end of this track you should feel confident with Ruby and be able to build a basic Ruby on Rails project. 
+**Ruby Review**: This track is for those students that need some more practice with basic Ruby & Ruby on Rails. By the end of this track you should feel confident with Ruby and be able to build a basic Ruby on Rails project. 
 
-**[JavaScript Review](https://github.com/learn-co-curriculum/javascript-postwork-plan)**: By the end of this track, you should feel more confident in your JavaScript programming and the request response cycle. You'll be able to build a React/Redux/Rails CRUD application, explain REST and the Request/Response cycle, and generally solve some cool problems using JavaScript.
+**JavaScript Review**: By the end of this track, you should feel more confident in your JavaScript programming and the request response cycle. You'll be able to build a React/Redux/Rails CRUD application, explain REST and the Request/Response cycle, and generally solve some cool problems using JavaScript.
 
-**[SQL/Data](https://github.com/learn-co-curriculum/data-postwork-plan)**: This track is for those students who are interested in data. This track is not meant to be remediation for SQL but for those who want to take a deeper dive into SQL and the world of Data, the new gold.
+**SQL/Data**: This track is for those students who are interested in data. This track is not meant to be remediation for SQL but for those who want to take a deeper dive into SQL and the world of Data, the new gold.
 
-**[Rails](https://github.com/learn-co-curriculum/rails-postwork)**: A student who completes this material should be able to build a Rails application that stresses the importance of design patterns and test driven development.
+**Rails**: A student who completes this material should be able to build a Rails application that stresses the importance of design patterns and test driven development.
 
-**[JavaScript/Node](https://github.com/learn-co-curriculum/javascript-node-postwork-plan)**: By the end of this track, students should walk away with a React/Node application. Students should feel confident as JavaScript programmers.
+**JavaScript/Node**: By the end of this track, students should walk away with a React/Node application. Students should feel confident as JavaScript programmers.
