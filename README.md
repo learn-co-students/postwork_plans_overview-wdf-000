@@ -4,7 +4,8 @@ The period of time immediately after completing the coursework can be one full o
 
 There are a few main things we want to communicate to help you be successful in the postwork period and ultimately achieve your goal of landing that first job writing code.  The first is...     
 
-#### **Don't Stop Working**
+#### **Don't Stop Working!**
+<script>console.log("testinggggg ALEX!")</script> 
 *all of the hard work you put in to the coursework should give you a pretty good model of what your postwork life should look like.*
 
 So you know that you need to put in the work. The question is what do you work on?  The next, but by no means second, most-important-thing is...      
@@ -30,7 +31,7 @@ How do you navigate this?  Help yourself out by giving yourself some **structure
 |1:00 pm - 4:00 pm | Continue working on material from assigned track  
 |4:00 pm - 6:00 pm | Career Preparation (LinkedIn Scouting, Follow up e-mails, Applications, Schedule Meetups/Events) 
 
-#### Your Post Work Plan Starts With .... 
+#### Your Post Work Plan Starts With ....
 
 Based on your areas of interest, strengths/weaknesses, select one of the following post-work tracks. Once you finish one, feel free to move on to a different track: 
 
