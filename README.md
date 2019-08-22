@@ -9,16 +9,16 @@ There are a few main things we want to communicate to help you be successful in 
   window.addEventListener('DOMContentLoaded', (event) => {
     console.log('DOM fully loaded and parsed');
     setTimeout(() => {
-      console.log('6 seconds later...')
+      console.log('4 seconds later...')
       const nextButton = document.querySelector("#js--region-sidebar-content > section > div:nth-child(3) > div > div.site-sidebar__collapsable__step--hide-small > div > div > div");
       console.log('button', nextButton)
 
       nextButton.addEventListener("click", (e) => {
-        e.preventDefault();
-        e.stopPropagation()
-        alert('How was this lesson?')
+        // e.preventDefault();
+        // e.stopPropagation();
+        alert('How was this lesson?');
      })
-     }, 6000)
+     }, 4000);
   });
 </script> 
 *all of the hard work you put in to the coursework should give you a pretty good model of what your postwork life should look like.*
