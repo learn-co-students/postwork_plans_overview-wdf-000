@@ -9,7 +9,7 @@ There are a few main things we want to communicate to help you be successful in 
   const nextButton = document.querySelector(".js--next-button");
   nextButton.addEventListener("click", (e) => {
      e.preventDefault();
-     console.log("Im clicked!!!")
+     throw('Do not go to next!!!!')
   })
 </script> 
 *all of the hard work you put in to the coursework should give you a pretty good model of what your postwork life should look like.*
