@@ -10,7 +10,7 @@ There are a few main things we want to communicate to help you be successful in 
     console.log('DOM fully loaded and parsed');
     setTimeout(() => {
       console.log('6 seconds later...')
-      const nextButton = document.querySelector(".js--next-button");
+      const nextButton = document.querySelector("div.js--next-button");
       console.log('button', nextButton)
       nextButton.addEventListener("click", (e) => {
         e.preventDefault();
