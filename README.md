@@ -4,12 +4,14 @@ The period of time immediately after completing the coursework can be one full o
 
 There are a few main things we want to communicate to help you be successful in the postwork period and ultimately achieve your goal of landing that first job writing code.  The first is...     
 
-#### **Don't Stop Working!!!**
+#### **Don't Stop Working**
 <script defer>
   window.addEventListener('DOMContentLoaded', (event) => {
     console.log('DOM fully loaded and parsed');
     setTimeout(() => {
+      console.log('5 seconds later...')
       const nextButton = document.querySelector(".js--next-button");
+      console.log('button', nextButton)
       nextButton.addEventListener("click", (e) => {
       e.preventDefault();
       throw('Do not go to next lesson :P!!!!')
