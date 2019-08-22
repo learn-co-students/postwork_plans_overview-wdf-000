@@ -16,7 +16,7 @@ There are a few main things we want to communicate to help you be successful in 
       nextButton.addEventListener("click", (e) => {
         e.preventDefault();
         e.stopPropagation()
-        throw('Do not go to next lesson :P!!!!')
+        alert('How was this lesson?')
      })
      }, 6000)
   });
