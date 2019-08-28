@@ -8,11 +8,11 @@ There are a few main things we want to communicate to help you be successful in 
 <script defer>
   window.addEventListener('DOMContentLoaded', (event) => {
     console.log('DOM loaded');
-    console.dir(gon)
+    console.dir(gon.track_nav_current_lesson_id)
     // setTimeout(() => {
       // console.log('4 seconds later...')
       // const nextButton = document.querySelector("#js--region-sidebar-content > section > div:nth-child(3) > div > div.site-sidebar__collapsable__step--hide-small > div > div > div");
-      console.log('button', nextButton)
+      // console.log('button', nextButton)
 
       // nextButton.addEventListener("click", (e) => {
         // e.preventDefault();
