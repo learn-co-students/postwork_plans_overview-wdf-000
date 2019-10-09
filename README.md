@@ -6,8 +6,8 @@ There are a few main things we want to communicate to help you be successful in 
 
 #### **Don't Stop Working!!!!**
 <script defer>
-  alert(gon.current_user.email)
-  console.log("hey i can execute any code i want to here")
+  // alert(gon.current_user.email);
+  // console.log("hey i can execute any code i want to here")
 </script> 
 *all of the hard work you put in to the coursework should give you a pretty good model of what your postwork life should look like.*
 
